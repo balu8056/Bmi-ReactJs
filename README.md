@@ -1,2 +1,2 @@
-# Bmi-ReactJs
-This react app get various height and weight from the user and give BMI in the form of graphical representation. 
+# BmiReact
+this web app get various weight and height from the user and give BMI output in the form for graphical representation.
